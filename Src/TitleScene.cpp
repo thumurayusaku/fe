@@ -31,7 +31,7 @@ bool TitleScene::Initialize() {
 */
 
 void TitleScene::ProcessInput() {
-
+	//
 	GLFWEW::Window& window = GLFWEW::Window::Instance();
 
 	if (!isFinish && timer <= 0.0f) {
