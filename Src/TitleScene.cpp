@@ -25,7 +25,7 @@ bool TitleScene::Initialize() {
 
 		return true;	
 }
-
+//
 /**
 *“ü—Í‚Ì”½‰f.
 */
